@@ -1,0 +1,59 @@
+
+
+/******************/
+1. insertar libros
+/*****************/
+
+escriba el ISBN: xxx.xxxx.xxx
+escriba titulo: programacion ajva
+escriba anio: 2016
+
+escriba cantidad ejemplares: 100
+
+este libro esta activo ? 
+
+autor del libro: nombre
+editorial: nombre;
+
+////
+
+2. prestar libro: 
+
+Digite el codigo ISBN: xxxx xxx xxxx
+
+Ejemplares inicial: 100
+cantidad Disponible: 33 (ejemplares restantes)
+Ejemplares prestados: 67
+
+cantidad: 1
+
+**********************
+
+dar de baja/alta un libro:
+
+**********************
+
+escriba el codigo ISBN
+
+Se encontro el libro: Titulo
+Datos:
+
+Cantidad
+
+Estado: BAJA/ALTA
+..
+
+1. dar de baja/alta
+0. buscar otro libro
+
+------------------------------
+
+Modificar libro
+
+1. nombre
+2. texto
+3, titulo
+
+0 salir
+
+
